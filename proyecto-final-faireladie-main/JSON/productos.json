@@ -1,0 +1,65 @@
+[{
+    "id":"1",
+    "value":"1",
+    "name":"cama1",
+    "price": 1200,
+    "delete": "eliminar-cart-cam1",
+    "img":"images/cards-beds-1.jpg"
+    },
+    {
+      "id":"2",
+      "value":"2",
+      "name":"cama2",
+      "price": 2200,
+      "delete": "eliminar-cart-cam2",
+      "img":"images/cards-beds-2.jpg"
+      },
+      {
+        "id":"3",
+        "value":"3",
+        "name":"cama3",
+        "price": "1400",
+        "delete": "eliminar-cart-cam3",
+        "img":"images/cards-beds-3.jpg"
+        },
+        {
+          "id":"4",
+          "value":"4",
+          "name":"cama4",
+          "price": "1200",
+          "delete": "eliminar-cart-cam4",
+          "img":"images/cards-beds-4.jpg"
+          },
+          {
+            "id":"5",
+            "value":"5",
+            "name":"cushion1",
+            "price": 50,
+            "delete": "eliminar-cart-cus1",
+            "img":"images/cushion1.jpeg"
+            },
+            {
+              "id":"6",
+              "value":"6",
+              "name":"cushion2",
+              "price": 40,
+              "delete": "eliminar-cart-cus2",
+              "img":"images/cushion2.jpeg"
+              },
+              {
+                "id":"7",
+                "value":"7",
+                "name":"cushion3",
+                "price": 20,
+                "delete": "eliminar-cart-cus3",
+                "img":"images/cushion3.jpeg"
+                },
+                {
+                  "id":"8",
+                  "value":"8",
+                  "name":"cushion4",
+                  "price": 20,
+                  "delete": "eliminar-cart-cus4",
+                  "img":"images/cushion4.jpeg"
+                  }]
+  
